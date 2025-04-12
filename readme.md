@@ -3,7 +3,7 @@
 <head>
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0"/>
-  <title>Customer Feedback Analysis Dashboard</title>
+<!--   <title>Customer Feedback Analysis Dashboard</title>
   <style>
     body {
       font-family: Arial, sans-serif;
@@ -35,7 +35,7 @@
     a:hover {
       text-decoration: underline;
     }
-  </style>
+  </style> -->
 </head>
 <body>
 
